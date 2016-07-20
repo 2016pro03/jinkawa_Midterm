@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.7-160201-2.6 (utf8.euc) (TeX Live 2016) (preloaded format=platex 2016.7.18)  20 JUL 2016 18:32
+This is e-pTeX, Version 3.14159265-p3.7-160201-2.6 (utf8.euc) (TeX Live 2016) (preloaded format=platex 2016.7.18)  20 JUL 2016 18:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -114,8 +114,32 @@ LaTeX Info: Redefining \addtolength on input line 81.
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
 \c@hoge=\count95
+ (./report.aux
 
-No file report.aux.
+LaTeX Warning: Label `fig:lena' multiply defined.
+
+
+LaTeX Warning: Label `fig:lena' multiply defined.
+
+
+LaTeX Warning: Label `fig:lena' multiply defined.
+
+
+LaTeX Warning: Label `fig:lena' multiply defined.
+
+
+LaTeX Warning: Label `fig:lena' multiply defined.
+
+
+LaTeX Warning: Label `fig:lena' multiply defined.
+
+
+LaTeX Warning: Label `fig:lena' multiply defined.
+
+
+LaTeX Warning: Label `fig:lena' multiply defined.
+
+)
 \openout1 = `report.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 64.
@@ -178,7 +202,7 @@ LaTeX Font Info:    Font shape `JY1/gt/bx/n' in size <12> not available
 (Font)              Font shape `JY1/gt/m/n' tried instead on input line 67.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
 (Font)              scaled to size 11.53198pt on input line 67.
-[1
+ [1
 
 
 ] (./abstract.tex
@@ -186,24 +210,35 @@ LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
 (Font)              scaled to size 8.64899pt on input line 2.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
 (Font)              scaled to size 8.64899pt on input line 2.
-LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 8.64899pt on input line 5.
-LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 8.64899pt on input line 5.
-LaTeX Font Info:    Font shape `JT1/gt/bx/n' in size <9> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 5.
-LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 8.64899pt on input line 5.
-LaTeX Font Info:    Font shape `JY1/gt/bx/n' in size <9> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 5.
-LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 8.64899pt on input line 5.
  [1
 
 
-] [2
+] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12]
+[13] [14] [15] [16] [17] [18] [19] [20] [21] [22] [23] [24] [25] [26]
+LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
+(Font)              scaled to size 8.64899pt on input line 8.
+LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
+(Font)              scaled to size 8.64899pt on input line 8.
+LaTeX Font Info:    Font shape `JT1/gt/bx/n' in size <9> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 8.
+LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
+(Font)              scaled to size 8.64899pt on input line 8.
+LaTeX Font Info:    Font shape `JY1/gt/bx/n' in size <9> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 8.
+LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
+(Font)              scaled to size 8.64899pt on input line 8.
+ [27]
+Missing character: There is no ^^e2 in font cmr10!
+Missing character: There is no ^^80 in font cmr10!
+Missing character: There is no ^^8b in font cmr10!
 
-])
+Overfull \hbox (11.46799pt too wide) in paragraph at lines 13--15
+[] [] 
+ []
+
+[28
+
+] [29] [30] [31] [32] [33])
 LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
 (Font)              scaled to size 19.9311pt on input line 74.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
@@ -220,15 +255,23 @@ LaTeX Font Info:    Font shape `JY1/gt/bx/n' in size <20.74> not available
 (Font)              Font shape `JY1/gt/m/n' tried instead on input line 74.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
 (Font)              scaled to size 19.9311pt on input line 74.
+ (./report.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 2.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 6.72699pt on input line 2.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 4.805pt on input line 2.
+ [34
 
-No file report.toc.
+
+])
 \tf@toc=\write3
 \openout3 = `report.toc'.
 
-[3
-
-
-] (./background.tex
+ [35] (./background.tex
 第1章
 ) (./purpose.tex [1
 
@@ -242,14 +285,6 @@ Missing character: There is no ^^8b in font cmr10!
 
 ]
 第3章
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 12.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 12.
-LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 6.72699pt on input line 12.
-LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 4.805pt on input line 12.
 File: monaca_overview.eps Graphic file (type eps)
 <monaca_overview.eps>
 File: ncmb_overview.eps Graphic file (type eps)
@@ -295,6 +330,9 @@ File: notification.png Graphic file (type bmp)
 
 <notification.png>) (./middle_presen.tex [13]
 第6章
+Missing character: There is no ^^e2 in font cmr10!
+Missing character: There is no ^^80 in font cmr10!
+Missing character: There is no ^^8b in font cmr10!
 ) (./future_prospects.tex [14
 
 ]
@@ -325,16 +363,16 @@ File: notification.png Graphic file (type bmp)
 
 ] (./report.aux)
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 1476 strings out of 493683
- 18066 string characters out of 6149658
- 84155 words of memory out of 5000000
+ 1480 strings out of 493683
+ 18110 string characters out of 6149658
+ 710504 words of memory out of 5000000
  5018 multiletter control sequences out of 15000+600000
  13816 words of font info for 65 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
  26i,11n,23p,1504b,508s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on report.dvi (25 pages, 53596 bytes).
+Output written on report.dvi (57 pages, 353508 bytes).
