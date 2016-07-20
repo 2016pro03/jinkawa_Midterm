@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.7-160201-2.6 (utf8.euc) (TeX Live 2016) (preloaded format=platex 2016.7.18)  20 JUL 2016 15:12
+This is e-pTeX, Version 3.14159265-p3.7-160201-2.6 (utf8.euc) (TeX Live 2016) (preloaded format=platex 2016.7.18)  20 JUL 2016 18:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -114,26 +114,8 @@ LaTeX Info: Redefining \addtolength on input line 81.
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
 \c@hoge=\count95
- (./report.aux
 
-LaTeX Warning: Label `fig:lena' multiply defined.
-
-
-LaTeX Warning: Label `fig:lena' multiply defined.
-
-
-LaTeX Warning: Label `fig:lena' multiply defined.
-
-
-LaTeX Warning: Label `fig:lena' multiply defined.
-
-
-LaTeX Warning: Label `fig:lena' multiply defined.
-
-
-LaTeX Warning: Label `fig:lena' multiply defined.
-
-)
+No file report.aux.
 \openout1 = `report.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 64.
@@ -196,7 +178,7 @@ LaTeX Font Info:    Font shape `JY1/gt/bx/n' in size <12> not available
 (Font)              Font shape `JY1/gt/m/n' tried instead on input line 67.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
 (Font)              scaled to size 11.53198pt on input line 67.
- [1
+[1
 
 
 ] (./abstract.tex
@@ -238,23 +220,15 @@ LaTeX Font Info:    Font shape `JY1/gt/bx/n' in size <20.74> not available
 (Font)              Font shape `JY1/gt/m/n' tried instead on input line 74.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
 (Font)              scaled to size 19.9311pt on input line 74.
- (./report.toc
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 2.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 2.
-LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 6.72699pt on input line 2.
-LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 4.805pt on input line 2.
- [3
 
-
-])
+No file report.toc.
 \tf@toc=\write3
 \openout3 = `report.toc'.
 
- [4] (./background.tex
+[3
+
+
+] (./background.tex
 第1章
 ) (./purpose.tex [1
 
@@ -268,249 +242,99 @@ Missing character: There is no ^^8b in font cmr10!
 
 ]
 第3章
-Missing character: There is no ^^e2 in font cmr10!
-Missing character: There is no ^^80 in font cmr10!
-Missing character: There is no ^^8b in font cmr10!
-Missing character: There is no ^^e2 in font cmr10!
-Missing character: There is no ^^80 in font cmr10!
-Missing character: There is no ^^8b in font cmr10!
-Missing character: There is no ^^e2 in font cmr10!
-Missing character: There is no ^^80 in font cmr10!
-Missing character: There is no ^^8b in font cmr10!
-Missing character: There is no ^^e2 in font cmr10!
-Missing character: There is no ^^80 in font cmr10!
-Missing character: There is no ^^8b in font cmr10!
-Missing character: There is no ^^e2 in font cmr10!
-Missing character: There is no ^^80 in font cmr10!
-Missing character: There is no ^^8b in font cmr10!
-Missing character: There is no ^^e2 in font cmr10!
-Missing character: There is no ^^80 in font cmr10!
-Missing character: There is no ^^8b in font cmr10!
-Missing character: There is no ^^e2 in font cmr10!
-Missing character: There is no ^^80 in font cmr10!
-Missing character: There is no ^^8b in font cmr10!
-Missing character: There is no ^^e2 in font cmr10!
-Missing character: There is no ^^80 in font cmr10!
-Missing character: There is no ^^8b in font cmr10!
-[3
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 12.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 6.72699pt on input line 12.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 4.805pt on input line 12.
+File: monaca_overview.eps Graphic file (type eps)
+<monaca_overview.eps>
+File: ncmb_overview.eps Graphic file (type eps)
+ <ncmb_overview.eps> [3
 
-]
-Missing character: There is no ^^e2 in font cmr10!
-Missing character: There is no ^^80 in font cmr10!
-Missing character: There is no ^^8b in font cmr10!
-Missing character: There is no ^^e2 in font cmr10!
-Missing character: There is no ^^80 in font cmr10!
-Missing character: There is no ^^8b in font cmr10!
-Missing character: There is no ^^e2 in font cmr10!
-Missing character: There is no ^^80 in font cmr10!
-Missing character: There is no ^^8b in font cmr10!
-) (./process.tex [4]
+] [4]) (./process.tex [5]
 第4章
-[5
+[6
 
-]) (./about_app.tex [6]
+]) (./about_app.tex [7]
 第5章
-Missing character: There is no ^^e2 in font cmr10!
-Missing character: There is no ^^80 in font cmr10!
-Missing character: There is no ^^8b in font cmr10!
-Missing character: There is no ^^e2 in font cmr10!
-Missing character: There is no ^^80 in font cmr10!
-Missing character: There is no ^^8b in font cmr10!
-Missing character: There is no ^^e2 in font cmr10!
-Missing character: There is no ^^80 in font cmr10!
-Missing character: There is no ^^8b in font cmr10!
-Missing character: There is no ^^e2 in font cmr10!
-Missing character: There is no ^^80 in font cmr10!
-Missing character: There is no ^^8b in font cmr10!
-Missing character: There is no ^^e2 in font cmr10!
-Missing character: There is no ^^80 in font cmr10!
-Missing character: There is no ^^8b in font cmr10!
-File: event_list.PNG Graphic file (type bmp)
-<event_list.PNG>
-Missing character: There is no ^^e2 in font cmr10!
-Missing character: There is no ^^80 in font cmr10!
-Missing character: There is no ^^8b in font cmr10!
-File: event_add.png Graphic file (type bmp)
- <event_add.png>
-Missing character: There is no ^^e2 in font cmr10!
-Missing character: There is no ^^80 in font cmr10!
-Missing character: There is no ^^8b in font cmr10!
-Missing character: There is no ^^e2 in font cmr10!
-Missing character: There is no ^^80 in font cmr10!
-Missing character: There is no ^^8b in font cmr10!
- [7
+[8
 
 ]
-Missing character: There is no ^^e2 in font cmr10!
-Missing character: There is no ^^80 in font cmr10!
-Missing character: There is no ^^8b in font cmr10!
-Missing character: There is no ^^e2 in font cmr10!
-Missing character: There is no ^^80 in font cmr10!
-Missing character: There is no ^^8b in font cmr10!
 File: event_list.PNG Graphic file (type bmp)
  <event_list.PNG>
-Missing character: There is no ^^e2 in font cmr10!
-Missing character: There is no ^^80 in font cmr10!
-Missing character: There is no ^^8b in font cmr10!
+File: event_add.png Graphic file (type bmp)
+ <event_add.png>
+File: event_list.PNG Graphic file (type bmp)
+ <event_list.PNG>
 File: event_edit.PNG Graphic file (type bmp)
- <event_edit.PNG>
-Missing character: There is no ^^e2 in font cmr10!
-Missing character: There is no ^^80 in font cmr10!
-Missing character: There is no ^^8b in font cmr10!
-Missing character: There is no ^^e2 in font cmr10!
-Missing character: There is no ^^80 in font cmr10!
-Missing character: There is no ^^8b in font cmr10!
-Missing character: There is no ^^e2 in font cmr10!
-Missing character: There is no ^^80 in font cmr10!
-Missing character: There is no ^^8b in font cmr10!
-Missing character: There is no ^^e2 in font cmr10!
-Missing character: There is no ^^80 in font cmr10!
-Missing character: There is no ^^8b in font cmr10!
-Missing character: There is no ^^e2 in font cmr10!
-Missing character: There is no ^^80 in font cmr10!
-Missing character: There is no ^^8b in font cmr10!
+ <event_edit.PNG> [9]
 File: event_list_town.png Graphic file (type bmp)
 
 <event_list_town.png>
-Missing character: There is no ^^e2 in font cmr10!
-Missing character: There is no ^^80 in font cmr10!
-Missing character: There is no ^^8b in font cmr10!
 File: participant_form.png Graphic file (type bmp)
- <participant_form.png>
-Missing character: There is no ^^e2 in font cmr10!
-Missing character: There is no ^^80 in font cmr10!
-Missing character: There is no ^^8b in font cmr10!
-Missing character: There is no ^^e2 in font cmr10!
-Missing character: There is no ^^80 in font cmr10!
-Missing character: There is no ^^8b in font cmr10!
- [8]
-Missing character: There is no ^^e2 in font cmr10!
-Missing character: There is no ^^80 in font cmr10!
-Missing character: There is no ^^8b in font cmr10!
-Missing character: There is no ^^e2 in font cmr10!
-Missing character: There is no ^^80 in font cmr10!
-Missing character: There is no ^^8b in font cmr10!
+ <participant_form.png> [10]
 File: participant_list.png Graphic file (type bmp)
  <participant_list.png>
-Missing character: There is no ^^e2 in font cmr10!
-Missing character: There is no ^^80 in font cmr10!
-Missing character: There is no ^^8b in font cmr10!
 File: participant_add.png Graphic file (type bmp)
 
 <participant_add.png>
-Missing character: There is no ^^e2 in font cmr10!
-Missing character: There is no ^^80 in font cmr10!
-Missing character: There is no ^^8b in font cmr10!
-Missing character: There is no ^^e2 in font cmr10!
-Missing character: There is no ^^80 in font cmr10!
-Missing character: There is no ^^8b in font cmr10!
- [9]
-Missing character: There is no ^^e2 in font cmr10!
-Missing character: There is no ^^80 in font cmr10!
-Missing character: There is no ^^8b in font cmr10!
-Missing character: There is no ^^e2 in font cmr10!
-Missing character: There is no ^^80 in font cmr10!
-Missing character: There is no ^^8b in font cmr10!
-Missing character: There is no ^^e2 in font cmr10!
-Missing character: There is no ^^80 in font cmr10!
-Missing character: There is no ^^8b in font cmr10!
-Missing character: There is no ^^e2 in font cmr10!
-Missing character: There is no ^^80 in font cmr10!
-Missing character: There is no ^^8b in font cmr10!
 File: notification_list.PNG Graphic file (type bmp)
  <notification_list.PNG>
-Missing character: There is no ^^e2 in font cmr10!
-Missing character: There is no ^^80 in font cmr10!
-Missing character: There is no ^^8b in font cmr10!
 File: notification_add.PNG Graphic file (type bmp)
  <notification_add.PNG>
-Missing character: There is no ^^e2 in font cmr10!
-Missing character: There is no ^^80 in font cmr10!
-Missing character: There is no ^^8b in font cmr10!
-Missing character: There is no ^^e2 in font cmr10!
-Missing character: There is no ^^80 in font cmr10!
-Missing character: There is no ^^8b in font cmr10!
-
-[10]
-Missing character: There is no ^^e2 in font cmr10!
-Missing character: There is no ^^80 in font cmr10!
-Missing character: There is no ^^8b in font cmr10!
-Missing character: There is no ^^e2 in font cmr10!
-Missing character: There is no ^^80 in font cmr10!
-Missing character: There is no ^^8b in font cmr10!
 File: notification_list_after_add.PNG Graphic file (type bmp)
- <notification_list_after_add.PNG>
-Missing character: There is no ^^e2 in font cmr10!
-Missing character: There is no ^^80 in font cmr10!
-Missing character: There is no ^^8b in font cmr10!
+
+<notification_list_after_add.PNG>
 File: notification_add.PNG Graphic file (type bmp)
- <notification_add.PNG>
-Missing character: There is no ^^e2 in font cmr10!
-Missing character: There is no ^^80 in font cmr10!
-Missing character: There is no ^^8b in font cmr10!
-Missing character: There is no ^^e2 in font cmr10!
-Missing character: There is no ^^80 in font cmr10!
-Missing character: There is no ^^8b in font cmr10!
-Missing character: There is no ^^e2 in font cmr10!
-Missing character: There is no ^^80 in font cmr10!
-Missing character: There is no ^^8b in font cmr10!
-Missing character: There is no ^^e2 in font cmr10!
-Missing character: There is no ^^80 in font cmr10!
-Missing character: There is no ^^8b in font cmr10!
+ <notification_add.PNG> [11] [12]
 File: notification.png Graphic file (type bmp)
 
-<notification.png>
-Missing character: There is no ^^e2 in font cmr10!
-Missing character: There is no ^^80 in font cmr10!
-Missing character: There is no ^^8b in font cmr10!
-Missing character: There is no ^^e2 in font cmr10!
-Missing character: There is no ^^80 in font cmr10!
-Missing character: There is no ^^8b in font cmr10!
-Missing character: There is no ^^e2 in font cmr10!
-Missing character: There is no ^^80 in font cmr10!
-Missing character: There is no ^^8b in font cmr10!
-) (./middle_presen.tex [11] [12]
+<notification.png>) (./middle_presen.tex [13]
 第6章
-) (./future_prospects.tex [13
+) (./future_prospects.tex [14
 
 ]
 第7章
-) (./learning.tex [14
+) (./learning.tex [15
 
 ]
 第8章
-) [15
+) [16
 
 ]
 付録A
-[16
-
-]
-付録B
 [17
 
 ]
-付録C
+付録B
 [18
 
 ]
-付録D
+付録C
 [19
 
-] [20
+]
+付録D
+[20
+
+] [21
 
 ] (./report.aux)
 
-LaTeX Warning: There were multiply-defined labels.
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 1475 strings out of 493683
- 18034 string characters out of 6149658
+ 1476 strings out of 493683
+ 18066 string characters out of 6149658
  84155 words of memory out of 5000000
- 5016 multiletter control sequences out of 15000+600000
+ 5018 multiletter control sequences out of 15000+600000
  13816 words of font info for 65 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
- 26i,12n,23p,1504b,512s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 26i,11n,23p,1504b,508s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on report.dvi (25 pages, 66588 bytes).
+Output written on report.dvi (25 pages, 53596 bytes).
