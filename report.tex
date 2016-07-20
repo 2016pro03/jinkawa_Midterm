@@ -1,0 +1,138 @@
+% プロジェクト学習中間報告書書式テンプレート ver.1.0 (iso-2022-jp)
+
+% 両面印刷する場合は `openany' を削除する
+\documentclass[openany,11pt,papersize]{jsbook}
+
+% 報告書提出用スタイルファイル
+%\usepackage[final]{funpro}%最終報告書
+\usepackage[middle]{funpro}%中間報告書
+
+% 画像ファイル (EPS, EPDF, PNG) を読み込むために
+\usepackage[dvipdfmx]{graphicx,color}
+
+% ここから -->
+\usepackage{calc,ifthen}
+\newcounter{hoge}
+\newcommand{\fake}[1]{\whiledo{\thehoge<70}{#1\stepcounter{hoge}}%
+  \setcounter{hoge}{0}}
+% <-- ここまで 削除してもよい
+
+% 年度の指定
+\thisYear{2016}
+
+% プロジェクト名
+\jProjectName{使ってもらって学ぶフィールド指向システム・デザイン}
+
+% [簡易版のプロジェクト名]{正式なプロジェクト名}
+% 欧文のプロジェクト名が極端に長い（2行を超える）場合は、短い記述を
+% 任意引数として渡す。
+%\eProjectName[Making Delicious curry]{How to make delicious curry of Hakodate}
+\eProjectName{Field Oriented System Design Learning by Users' Feedback}
+
+
+% <プロジェクト番号>-<グループ名>
+\ProjectNumber{03-A}
+
+% グループ名
+\jGroupName{町内会グループ}
+\eGroupName{Nighborhood Association Group}
+
+% プロジェクトリーダ
+\ProjectLeader{1014237}{伊藤泰斗}{Taito~Ito}
+
+% グループリーダ
+\GroupLeader  {1014120}{永井陽太}{Youta~Nagai}
+
+% メンバー数
+\SumOfMembers{5}
+% グループメンバ
+\GroupMember  {1}{1014237}{伊藤泰斗}{Taito~Ito}
+\GroupMember  {2}{1014120}{永井陽太}{Youta~Nagai}
+\GroupMember  {3}{1014253}{横山新}{Taro~Hokkai　}
+\GroupMember  {4}{1014231}{森島帆南}{Honami~Morishima}
+\GroupMember  {5}{1014059}{船木綾香}{Ayaka~Funaki}
+
+% 指導教員
+\jadvisor{伊藤恵,南部美砂子,奥野拓,木塚歩,原田泰}
+% 複数人数いる場合はカンマ(,)で区切る。カンマの前後に空白は入れない。
+\eadvisor{Kei~Ito,Misako~Nambu,Taku~Okuno,Ayumi~Kiduka,Yasushi~Harada}
+
+% 論文提出日
+\jdate{2016年7月27日}
+\edate{July~27, 2016}
+
+\begin{document}
+%
+% 表紙
+\maketitle
+
+%前付け
+\frontmatter
+
+\input{abstract.tex}
+
+\tableofcontents% 目次
+
+
+\mainmatter% 本文のはじまり
+
+%背景
+\input{background.tex}
+
+%目的
+\input{purpose.tex}
+
+%開発準備
+\input{pre_develop.tex}
+
+%開発プロセス
+\input{process.tex}
+
+%じぷりについて
+\input{about_app.tex}
+
+%中間発表
+\input{middle_presen.tex}
+
+%今後の展望
+\input{future_prospects.tex}
+
+%学び
+\input{learning.tex}
+
+% 以降、付録(付属資料)であることを示す
+\begin{appendix}
+
+\chapter{新規習得技術}
+\begin{hissu}
+課題解決過程に習得した技術について解説する。
+\end{hissu}
+
+\chapter{活用した講義}
+\begin{hissu}
+課題解決過程において活用した講義について、講義名・活用内容を記述する。
+\end{hissu}
+
+\chapter{相互評価}
+\begin{hissu}
+課題解決過程で分担し、連携した作業全般について、互いに客観的に評価する。
+\end{hissu}
+
+\chapter{その他製作物}
+\begin{hissu}
+その他成果物をプロジェクトの担当教員の指示に従って添付する。
+\end{hissu}
+
+%付録の終わり
+\end{appendix}
+
+
+%\backmatter
+
+% 参考文献
+\begin{thebibliography}{9}
+ \bibitem {ラベル} 著者名. 書籍名. 出版社,  年号.
+ \bibitem {A2} ほげほげお. うんたらかんたら,  2003.
+\end{thebibliography}
+
+\end{document}
