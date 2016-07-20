@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.7-160201-2.6 (utf8.euc) (TeX Live 2016) (preloaded format=platex 2016.7.18)  20 JUL 2016 18:40
+This is e-pTeX, Version 3.14159265-p3.7-160201-2.6 (utf8.euc) (TeX Live 2016) (preloaded format=platex 2016.7.18)  21 JUL 2016 01:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -331,33 +331,37 @@ File: notification.png Graphic file (type bmp)
 Missing character: There is no ^^e2 in font cmr10!
 Missing character: There is no ^^80 in font cmr10!
 Missing character: There is no ^^8b in font cmr10!
-) (./future_prospects.tex [14
+) (./middle_reflection.tex [14
 
 ]
 第7章
-) (./learning.tex [15
+) (./future_prospects.tex [15
 
 ]
 第8章
-) [16
+) (./learning.tex [16
+
+]
+第9章
+) [17
 
 ]
 付録A
-[17
-
-]
-付録B
 [18
 
 ]
-付録C
+付録B
 [19
 
 ]
-付録D
+付録C
 [20
 
-] [21
+]
+付録D
+[21
+
+] [22
 
 ] (./report.aux)
 
@@ -365,12 +369,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 1480 strings out of 493683
- 18110 string characters out of 6149658
+ 1483 strings out of 493683
+ 18171 string characters out of 6149658
  83155 words of memory out of 5000000
  5018 multiletter control sequences out of 15000+600000
  13816 words of font info for 65 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
  26i,11n,23p,1504b,508s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on report.dvi (26 pages, 65932 bytes).
+Output written on report.dvi (27 pages, 68156 bytes).
