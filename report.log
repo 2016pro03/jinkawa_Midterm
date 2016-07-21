@@ -1,9 +1,8 @@
-This is e-pTeX, Version 3.14159265-p3.7-160201-2.6 (utf8.euc) (TeX Live 2016) (preloaded format=platex 2016.7.12)  21 JUL 2016 10:21
+This is e-pTeX, Version 3.14159265-p3.7-160201-2.6 (utf8.euc) (TeX Live 2016) (preloaded format=platex 2016.7.18)  21 JUL 2016 21:56
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
-**report.tex
+**report
 (./report.tex
 pLaTeX2e <2016/07/01> (based on LaTeX2e <2016/03/31> patch level 2)
 Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
@@ -233,17 +232,17 @@ LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
 (Font)              scaled to size 8.64899pt on input line 2.
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 8.64899pt on input line 8.
+(Font)              scaled to size 8.64899pt on input line 9.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 8.64899pt on input line 8.
+(Font)              scaled to size 8.64899pt on input line 9.
 LaTeX Font Info:    Font shape `JT1/gt/bx/n' in size <9> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 8.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 9.
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 8.64899pt on input line 8.
+(Font)              scaled to size 8.64899pt on input line 9.
 LaTeX Font Info:    Font shape `JY1/gt/bx/n' in size <9> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 8.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 9.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 8.64899pt on input line 8.
+(Font)              scaled to size 8.64899pt on input line 9.
  [1
 
 
@@ -252,7 +251,7 @@ Missing character: There is no ^^e2 in font cmr10!
 Missing character: There is no ^^80 in font cmr10!
 Missing character: There is no ^^8b in font cmr10!
 
-Overfull \hbox (11.46799pt too wide) in paragraph at lines 13--15
+Overfull \hbox (11.46799pt too wide) in paragraph at lines 14--16
 [] [] 
  []
 
@@ -293,7 +292,14 @@ LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
 
  [4] (./background.tex
 第1章
-) (./purpose.tex [1
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 11.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 11.
+) (./purpose.tex
+[1
 
 
 ]
@@ -416,12 +422,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 1485 strings out of 493683
- 18192 string characters out of 6149658
+ 1502 strings out of 493683
+ 18494 string characters out of 6149658
  83155 words of memory out of 5000000
- 5019 multiletter control sequences out of 15000+600000
+ 5033 multiletter control sequences out of 15000+600000
  13984 words of font info for 66 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
- 26i,11n,23p,1508b,508s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 26i,11n,23p,1504b,508s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on report.dvi (27 pages, 70092 bytes).
+Output written on report.dvi (27 pages, 73804 bytes).

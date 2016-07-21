@@ -37,9 +37,13 @@
 \contentsline {subsection}{\numberline {6.1.1}発表についての評価}{14}
 \contentsline {chapter}{\numberline {第7章}振り返り}{15}
 \contentsline {chapter}{\numberline {第8章}今後の展望}{16}
-\contentsline {section}{\numberline {8.1}ここに大見出し}{16}
+\contentsline {section}{\numberline {8.1}プロトタイプの作成}{16}
+\contentsline {section}{\numberline {8.2}プロトタイプの評価}{16}
+\contentsline {section}{\numberline {8.3}既存の情報発信手段との連携について}{16}
+\contentsline {section}{\numberline {8.4}町民にとっての魅力的なコンテンツの考案}{16}
 \contentsline {chapter}{\numberline {第9章}学び}{17}
-\contentsline {section}{\numberline {9.1}ここに大見出し}{17}
+\contentsline {section}{\numberline {9.1}メンバー間の情報共有}{17}
+\contentsline {section}{\numberline {9.2}計画的なスケジューリング}{17}
 \contentsline {chapter}{\numberline {付録A}新規習得技術}{18}
 \contentsline {chapter}{\numberline {付録B}活用した講義}{19}
 \contentsline {chapter}{\numberline {付録C}相互評価}{20}
