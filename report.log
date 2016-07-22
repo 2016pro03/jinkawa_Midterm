@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.7-160201-2.6 (utf8.euc) (TeX Live 2016) (preloaded format=platex 2016.7.18)  23 JUL 2016 00:46
+This is e-pTeX, Version 3.14159265-p3.7-160201-2.6 (utf8.euc) (TeX Live 2016) (preloaded format=platex 2016.7.18)  23 JUL 2016 01:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -290,25 +290,29 @@ LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
 \tf@toc=\write3
 \openout3 = `report.toc'.
 
- [4] (./background.tex
+ [4] (./background_purpose.tex
 第1章
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 11.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 17.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 11.
-) (./purpose.tex
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 17.
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 19.
+LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 19.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 19.
+LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 19.
+) (./process.tex
 [1
 
 
 ]
 第2章
-) (./process.tex [2
-
-]
-第3章
-[3
+[2
 
 ]
 File: process_figures/calender.png Graphic file (type bmp)
@@ -322,34 +326,26 @@ Overfull \hbox (23.26692pt too wide) in paragraph at lines 37--61
 [][][][] 
  []
 
-LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 76.
-LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 76.
-LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 76.
-LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 76.
 
-LaTeX Warning: Reference `firstreview' on page 4 undefined on input line 76.
+LaTeX Warning: Reference `firstreview' on page 3 undefined on input line 76.
 
-[4]
+[3]
 File: process_figures/eventlist.png Graphic file (type bmp)
  <process_figures/eventlist.png>
 File: process_figures/new_create_event.png Graphic file (type bmp)
  <process_figures/new_create_event.png>
 File: process_figures/joinlist.png Graphic file (type bmp)
 
-<process_figures/joinlist.png>) (./pre_develop.tex [5]
-第4章
+<process_figures/joinlist.png>) (./pre_develop.tex [4]
+第3章
 File: monaca_overview.eps Graphic file (type eps)
 <monaca_overview.eps>
 File: ncmb_overview.eps Graphic file (type eps)
- <ncmb_overview.eps> [6
+ <ncmb_overview.eps> [5
 
-] [7]) (./about_app.tex [8]
-第5章
-[9
+] [6]) (./about_app.tex [7]
+第4章
+[8
 
 ]
 File: event_list.PNG Graphic file (type bmp)
@@ -359,12 +355,12 @@ File: event_add.png Graphic file (type bmp)
 File: event_list.PNG Graphic file (type bmp)
  <event_list.PNG>
 File: event_edit.PNG Graphic file (type bmp)
- <event_edit.PNG> [10]
+ <event_edit.PNG> [9]
 File: event_list_town.png Graphic file (type bmp)
 
 <event_list_town.png>
 File: participant_form.png Graphic file (type bmp)
- <participant_form.png> [11]
+ <participant_form.png> [10]
 File: participant_list.png Graphic file (type bmp)
  <participant_list.png>
 File: participant_add.png Graphic file (type bmp)
@@ -378,27 +374,27 @@ File: notification_list_after_add.PNG Graphic file (type bmp)
 
 <notification_list_after_add.PNG>
 File: notification_add.PNG Graphic file (type bmp)
- <notification_add.PNG> [12] [13]
+ <notification_add.PNG> [11] [12]
 File: notification.png Graphic file (type bmp)
 
-<notification.png>) (./middle_presen.tex [14]
-第6章
+<notification.png>) (./middle_presen.tex [13]
+第5章
 Missing character: There is no ^^e2 in font cmr10!
 Missing character: There is no ^^80 in font cmr10!
 Missing character: There is no ^^8b in font cmr10!
-) (./middle_reflection.tex [15
+) (./middle_reflection.tex [14
+
+]
+第6章
+) (./future_prospects.tex [15
 
 ]
 第7章
-) (./future_prospects.tex [16
+) (./learning.tex [16
 
 ]
 第8章
-) (./learning.tex [17
-
-]
-第9章
-) (./appendixA.tex [18
+) (./appendixA.tex [17
 
 ]
 付録A
@@ -409,9 +405,9 @@ File: appendixs/appendixA-2.jpg Graphic file (type bmp)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) (./appendixB.tex [19
+) (./appendixB.tex [18
 
-] [20]
+] [19]
 付録B
 File: appendixs/appendixB_figres/fig1.png Graphic file (type bmp)
 <appendixs/appendixB_figres/fig1.png>
@@ -487,9 +483,9 @@ Overfull \hbox (24.54749pt too wide) in paragraph at lines 52--53
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [21
+) [20
 
-] [22] [23] [24] [25] [26] [27] [28] [29]
+] [21] [22] [23] [24] [25] [26] [27] [28]
 Underfull \hbox (badness 1552) in paragraph at lines 125--126
 []\OT1/cmr/m/n/10 NIFTY Cloud mo-bile back-end. mBaaS \JY1/mc/m/n/10 とは\OT1/c
 mr/m/n/10 . $\OT1/cmtt/m/n/10 http : / / mb . cloud . nifty . com / about .
@@ -501,7 +497,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 126--127
 /10 . $\OT1/cmtt/m/n/10 http : / / mb . cloud . nifty . com / price . htm
  []
 
-[30
+[29
 
 ] (./report.aux)
 
@@ -512,12 +508,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 1576 strings out of 493683
- 20457 string characters out of 6149658
+ 1573 strings out of 493683
+ 20450 string characters out of 6149658
  83155 words of memory out of 5000000
  5077 multiletter control sequences out of 15000+600000
  13984 words of font info for 66 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
  26i,12n,23p,1504b,508s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on report.dvi (35 pages, 82216 bytes).
+Output written on report.dvi (34 pages, 82660 bytes).
