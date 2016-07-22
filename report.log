@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.7-160201-2.6 (utf8.euc) (TeX Live 2016) (preloaded format=platex 2016.7.18)  22 JUL 2016 15:27
+This is e-pTeX, Version 3.14159265-p3.7-160201-2.6 (utf8.euc) (TeX Live 2016) (preloaded format=platex 2016.7.18)  22 JUL 2016 16:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -313,9 +313,6 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 
 ]
 第2章
-Missing character: There is no ^^e2 in font cmr10!
-Missing character: There is no ^^80 in font cmr10!
-Missing character: There is no ^^8b in font cmr10!
 ) (./pre_develop.tex [2
 
 ]
@@ -414,10 +411,83 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 ] [20]
 付録B
-File: appendixs/appendixB.pdf Graphic file (type pdf)
-<appendixs/appendixB.pdf>) [21
+File: appendixs/appendixB_figres/fig1.png Graphic file (type bmp)
+<appendixs/appendixB_figres/fig1.png>
+File: appendixs/appendixB_figres/fig2.png Graphic file (type bmp)
+ <appendixs/appendixB_figres/fig2.png>
+Overfull \hbox (23.84486pt too wide) in paragraph at lines 10--11
+ [] 
+ []
 
-]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: appendixs/appendixB_figres/fig3.png Graphic file (type bmp)
+<appendixs/appendixB_figres/fig3.png>
+Overfull \hbox (23.84486pt too wide) in paragraph at lines 16--17
+ [] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: appendixs/appendixB_figres/fig4.png Graphic file (type bmp)
+<appendixs/appendixB_figres/fig4.png>
+Overfull \hbox (23.84486pt too wide) in paragraph at lines 22--23
+ [] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: appendixs/appendixB_figres/fig5.png Graphic file (type bmp)
+<appendixs/appendixB_figres/fig5.png>
+Overfull \hbox (24.54749pt too wide) in paragraph at lines 28--29
+ [] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: appendixs/appendixB_figres/fig6.png Graphic file (type bmp)
+<appendixs/appendixB_figres/fig6.png>
+Overfull \hbox (24.54749pt too wide) in paragraph at lines 34--35
+ [] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: appendixs/appendixB_figres/fig7.png Graphic file (type bmp)
+<appendixs/appendixB_figres/fig7.png>
+Overfull \hbox (24.54749pt too wide) in paragraph at lines 40--41
+ [] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: appendixs/appendixB_figres/fig8.png Graphic file (type bmp)
+<appendixs/appendixB_figres/fig8.png>
+Overfull \hbox (24.54749pt too wide) in paragraph at lines 46--47
+ [] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: appendixs/appendixB_figres/fig9.png Graphic file (type bmp)
+<appendixs/appendixB_figres/fig9.png>
+Overfull \hbox (24.54749pt too wide) in paragraph at lines 52--53
+ [] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) [21
+
+] [22] [23] [24] [25] [26] [27] [28] [29]
 Underfull \hbox (badness 6204) in paragraph at lines 125--126
 []\OT1/cmr/m/n/10 NIFTY Cloud mo-bile back-end. mBaaS \JY1/mc/m/n/10 とは\OT1/c
 mr/m/n/10 . $\OT1/cmtt/m/n/10 http : / / redmine . jp / glossary / i /
@@ -442,7 +512,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 129--130
 rymaterial . pdf ? c =
  []
 
-[22
+[30
 
 ] (./report.aux)
 
@@ -450,12 +520,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 1542 strings out of 493683
- 19495 string characters out of 6149658
+ 1569 strings out of 493683
+ 20361 string characters out of 6149658
  83155 words of memory out of 5000000
- 5054 multiletter control sequences out of 15000+600000
+ 5070 multiletter control sequences out of 15000+600000
  13984 words of font info for 66 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
  26i,12n,23p,1504b,508s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on report.dvi (27 pages, 76892 bytes).
+Output written on report.dvi (35 pages, 82148 bytes).
