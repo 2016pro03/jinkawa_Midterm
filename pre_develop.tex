@@ -4,7 +4,7 @@
 %必要ならここに大見出しの内容
 %必要なら下のsubsectionを用いて小見出しをつかう
 \subsection{Monaca}%：発表技法について
-iOSとAndroidの両方のプラットフォームでアプリケーションを使いたいという町会の要望を叶えるために、HTML5ハイブリッドアプリを開発することとした。iOSとAndroidには、「WebView」と呼ばれるブラウザの機能を持つコンポーネントが組み込まれている。HTML5ハイブリッドアプリとは、「WebView」にHTMLとCSS、JavaScriptを用いて開発するアプリケーションである。また、HTML5ハイブリッドアプリの開発ツールのなかからMonacaを選択した。MonacaはCordovaというオープンソースのフレームワークを利用している。また、MonacaにはMonacaクラウドIDE、Monaca Localkit、Monaca CLIの3種類の開発環境が存在する。MonacaクラウドIDEは、インターネットクラウド上で開発するため個人の開発環境に依存しない。Monaca Localkitは、MonacaクラウドIDEとは異なり、各メンバごとにローカルでの開発を可能とする。Monaca CLIは、MonacaクラウドIDEが提供するサービスを、コマンドライン形式で利用することを可能にする。いずれの開発環境においても、Monacaデバッカーを用いて、デバックを行う(図3.1)。
+iOSとAndroidの両方のプラットフォームでアプリケーションを使いたいという町会の要望を叶えるために、HTML5ハイブリッドアプリを開発することとした。iOSとAndroidには、「WebView」と呼ばれるブラウザの機能を持つコンポーネントが組み込まれている。HTML5ハイブリッドアプリとは、「WebView」にHTMLとCSS、JavaScriptを用いて開発するアプリケーションである。また、HTML5ハイブリッドアプリの開発ツールのなかからMonacaを選択した。MonacaはCordovaというオープンソースのフレームワークを利用している。また、MonacaにはMonacaクラウドIDE、Monaca Localkit、Monaca CLIの3種類の開発環境が存在する。MonacaクラウドIDEは、インターネットクラウド上で開発するため個人の開発環境に依存しない。Monaca Localkitは、MonacaクラウドIDEとは異なり、各メンバごとにローカルでの開発を可能とする。Monaca CLIは、MonacaクラウドIDEが提供するサービスを、コマンドライン形式で利用することを可能にする。いずれの開発環境においても、Monacaデバッカーを用いて、デバックを行う(図\ref{fig:image_monaca})。
 
 \begin{figure}[h]
   \begin{center}
@@ -21,13 +21,13 @@ iOSとAndroidの両方のプラットフォームでアプリケーションを�
 
     \end{tabular}
     \caption{Monacaでの開発イメージ}
-    \label{fig:lena}
+    \label{fig:image_monaca}
   \end{center}
   %\end{flushleft}
 \end{figure}
 
 \subsection{ニフティクラウド mobile backend}%：発表技法について
-本アプリケーションの各情報を保存する場所として、mBaaSの１つであるニフティクラウド mobile backend(以下、NCMBとする)を使用した。使用した理由として、以前このサービスを利用したことがあること、他のmBaaSと比べて無料で利用可能な機能多いことが挙げられる。mBasSとは、サーバーの開発、運用を必要とせずユーザから直接見えない部分の機能をアプリに実装することを可能にするサービスである。NCMBは、プッシュ通知、会員管理と認証、SNS連携などの機能を提供しているサービスである(図3.2)。
+本アプリケーションの各情報を保存する場所として、mBaaSの１つであるニフティクラウド mobile backend(以下、NCMBとする)を使用した。使用した理由として、以前このサービスを利用したことがあること、他のmBaaSと比べて無料で利用可能な機能多いことが挙げられる。mBasSとは、サーバーの開発、運用を必要とせずユーザから直接見えない部分の機能をアプリに実装することを可能にするサービスである。NCMBは、プッシュ通知、会員管理と認証、SNS連携などの機能を提供しているサービスである(図\ref{fig:image_mbaas})。
 
 \begin{figure}[htbp]
 %\begin{flushleft}
@@ -44,7 +44,7 @@ iOSとAndroidの両方のプラットフォームでアプリケーションを�
 
     \end{tabular}
     \caption{ニフティクラウド mobile backendのサービス内容}
-    \label{fig:lena}
+    \label{fig:image_mbaas}
   \end{center}
   %\end{flushleft}
 \end{figure}
@@ -67,9 +67,3 @@ iOSとAndroidの両方のプラットフォームでアプリケーションを�
 Monacaの3種類の開発環境の中から、オフラインで作業する可能性があることと普段使い慣れているエディターで開発することが望ましいため、Monaca CLIを選択した。Monacaの公式Webサイトを見ながら、Monacaアカウントの作成、Monaca CLIのインストール、コマンドラインからMonacaへのログイン、新規プロジェクト作成の順で環境構築を行った。GitHubについては、リモートリポジトリに各メンバー専用のブランチを作成した。個人の作業内容はこの各メンバー専用ブランチにプッシュすることとした。また、リモートリポジトリにdevelopブランチを作成した。このdevelopブランチは、各メンバー専用ブランチの内容をマージするためのブランチである。このdevelopブランチを作成した理由は、各メンバー専用ブランチの内容をmasterブランチにマージした後に、予期せぬ不具合や致命的なバグが発見された場合masterブランチをリリース可能な状態に維持することができなくなるからである。Redmineは担当教員よりすでに構築済みのものを提供していただいた。原則ウォッチャーは、メンバ全員を登録することとした。
 
 \bunseki{横山新}
-
-
-
-
-
-
