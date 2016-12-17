@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.7-160201-2.6 (utf8.euc) (TeX Live 2016) (preloaded format=platex 2016.7.18)  27 JUL 2016 11:54
+This is e-pTeX, Version 3.14159265-p3.7-160201-2.6 (utf8.euc) (TeX Live 2016) (preloaded format=platex 2016.7.12)  18 DEC 2016 01:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -297,54 +297,75 @@ File: monaca_overview.eps Graphic file (type eps)
 
 ]
 File: ncmb_overview.eps Graphic file (type eps)
- <ncmb_overview.eps> [7]) (./about_app.tex [8]
+ <ncmb_overview.eps>
+File: about_trello.png Graphic file (type bmp)
+ <about_trello.png> [7])
+(./about_app.tex [8]
 第4章
 [9
 
 ]
-File: event_list.PNG Graphic file (type bmp)
- <event_list.PNG>
+File: event_list.png Graphic file (type bmp)
+ <event_list.png>
 File: event_add.png Graphic file (type bmp)
  <event_add.png> [10]
-File: event_list.PNG Graphic file (type bmp)
- <event_list.PNG>
-File: event_edit.PNG Graphic file (type bmp)
- <event_edit.PNG>
-File: event_list_town.png Graphic file (type bmp)
+File: event_list.png Graphic file (type bmp)
+ <event_list.png>
+File: event_detail_02.png Graphic file (type bmp)
 
-<event_list_town.png>
-File: participant_form.png Graphic file (type bmp)
- <participant_form.png> [11]
-File: participant_list.png Graphic file (type bmp)
- <participant_list.png>
+<event_detail_02.png>
+File: event_edit.png Graphic file (type bmp)
+ <event_edit.png>
+Overfull \hbox (14.60025pt too wide) in paragraph at lines 51--81
+ [][][] 
+ []
+
+File: event_list.png Graphic file (type bmp)
+<event_list.png>
+File: event_detail_03.png Graphic file (type bmp)
+ <event_detail_03.png>
+File: participant_form_02.png Graphic file (type bmp)
+ <participant_form_02.png>
+Overfull \hbox (14.60025pt too wide) in paragraph at lines 96--126
+ [][][] 
+ []
+
+[11] [12]
+File: participant_list_02.png Graphic file (type bmp)
+ <participant_list_02.png>
 File: participant_add.png Graphic file (type bmp)
+ <participant_add.png>
+File: participant_list_save.png Graphic file (type bmp)
 
-<participant_add.png> [12]
-File: notification_list.PNG Graphic file (type bmp)
- <notification_list.PNG>
-File: notification_add.PNG Graphic file (type bmp)
- <notification_add.PNG>
-File: notification_list_after_add.PNG Graphic file (type bmp)
+<participant_list_save.png>
+Overfull \hbox (14.60025pt too wide) in paragraph at lines 138--168
+ [][][] 
+ []
 
-<notification_list_after_add.PNG>
-File: notification_add.PNG Graphic file (type bmp)
- <notification_add.PNG> [13]
-File: notification.png Graphic file (type bmp)
+File: csv.png Graphic file (type bmp)
+<csv.png> [13
 
-<notification.png>) (./middle_presen.tex [14]
+]
+File: information_list_01.png Graphic file (type bmp)
+ <information_list_01.png>
+File: information_add.png Graphic file (type bmp)
+ <information_add.png> [14]
+File: information_list_02.png Graphic file (type bmp)
+
+<information_list_02.png>) (./middle_presen.tex [15]
 第5章
 Missing character: There is no ^^e2 in font cmr10!
 Missing character: There is no ^^80 in font cmr10!
 Missing character: There is no ^^8b in font cmr10!
-) (./future_prospects.tex [15
+) (./future_prospects.tex [16
 
 ]
 第6章
-) (./reflection_learning.tex [16
+) (./reflection_learning.tex [17
 
 ]
 第7章
-) (./appendixA.tex [17
+) (./appendixA.tex [18
 
 ]
 付録A
@@ -370,9 +391,9 @@ Overfull \hbox (13.91122pt too wide) in paragraph at lines 28--29
  [] 
  []
 
-) (./appendixB.tex [18
+) (./appendixB.tex [19
 
-] [19] [20] [21] [22]
+] [20] [21] [22] [23]
 付録B
 File: appendixs/appendixB_figres/fig1.png Graphic file (type bmp)
 <appendixs/appendixB_figres/fig1.png>
@@ -424,25 +445,25 @@ Overfull \hbox (24.54749pt too wide) in paragraph at lines 52--53
  [] 
  []
 
-) [23
+) [24
 
-] [24] [25] [26] [27] [28] [29] [30] [31]
+] [25] [26] [27] [28] [29] [30] [31] [32]
 Underfull \hbox (badness 4518) in paragraph at lines 129--130
 []\OT1/cmr/m/n/10 Redline.JP. \JY1/mc/m/n/10 チケ ットのウ ォ ッチ ャ ー\OT1/cm
 r/m/n/10 . \JY1/mc/m/n/10 不明\OT1/cmr/m/n/10 . $\OT1/cmtt/m/n/10 http : / / re
 dmine . jp / glossary / i /
  []
 
-[32
+[33
 
 ] (./report.aux) ) 
 Here is how much of TeX's memory you used:
- 1594 strings out of 493683
- 21081 string characters out of 6149658
- 83218 words of memory out of 5000000
- 5102 multiletter control sequences out of 15000+600000
+ 1604 strings out of 493683
+ 21397 string characters out of 6149658
+ 83243 words of memory out of 5000000
+ 5111 multiletter control sequences out of 15000+600000
  13984 words of font info for 66 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
- 26i,15n,23p,1480b,530s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 26i,15n,23p,1782b,530s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on report.dvi (37 pages, 90936 bytes).
+Output written on report.dvi (38 pages, 94568 bytes).
