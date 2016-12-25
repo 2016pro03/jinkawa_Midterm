@@ -2,3 +2,4 @@
 
 platex report
 dvipdfmx report
+open report.pdf
