@@ -206,13 +206,6 @@
 
 
 \section{後期第2スプリント}
-\subsection{じぷりデザインの改善}
-じぷりの進捗状況の共有の際に挙げられた課題から、新たなUIのデザインを設計した。
-
-写真１、写真２、写真３、…
-
-----------ここに改善点とその理由。----------------
-
 \subsection{第4回町会打ち合わせ}
 \subsubsection{目的}
 第4回の打ち合わせでは, 実装済みの機能を確認してもらうことを目的とした。
@@ -235,6 +228,44 @@
 その他の機能に関しては概ねイメージ通りであるという意見を頂いた。
 \subsubsection{その他要望}
 今回の機能の確認とは別に、スマホの操作に慣れていない人の為に、操作マニュアルを作成して欲しいという要望も挙げられた。
+
+\subsection{じぷりデザインの改善}
+第４回町会打ち合わせ時のUIは以下の図\ref{beforeventlist}である。
+このUIに対して、スマホの操作に慣れていない人にも使いやすく、興味を引くような UI にして欲しいという要望を受けた。
+具体的には、イベント毎の違いを明確にすることに加え文字やレイアウト、誤操作が起きないようにボタンの色を改善して視覚的な配慮を施してほしいなどが挙げられた。
+この意見を基にUIを改善し、11月18日の町会打ち合わせで見せたのは以下の図\ref{aftereventlist}、図\ref{eventdetail}である。
+
+\begin{figure}[h]
+    \begin{tabular}{ccc}
+      %---- 最初の図 ---------------------------
+      \begin{minipage}[t]{0.3\hsize}
+        \centering
+        \includegraphics[keepaspectratio, scale=0.09]{picture/ui_update/beforupdate.png}
+        \caption{旧イベントリスト画面}
+        \label{beforeventlist}
+      \end{minipage} &
+      %---- 2番目の図 --------------------------
+      \begin{minipage}[t]{0.3\hsize}
+        \centering
+        \includegraphics[keepaspectratio, scale=0.1]{picture/ui_update/afterupdate1.jpg}
+        \caption{新イベント作成画面}
+        \label{aftereventlist}
+      \end{minipage}
+      %---- 3番目の図 --------------------------
+      \begin{minipage}[t]{0.3\hsize}
+        \centering
+        \includegraphics[keepaspectratio, scale=0.45]{picture/ui_update/afterupdate2.png}
+        \caption{イベント詳細画面}
+        \label{eventdetail}
+      \end{minipage}
+      %---- 図はここまで ----------------------
+    \end{tabular}
+\end{figure}
+
+じぷりを利用する人の興味を引くためにイベントのチラシやイベントの詳細を見れるようにした。
+イベントの詳細画面ではチラシをタップすると拡大表示できるようにした。視覚的な配慮を施すために、
+イベントのチラシやイベントの担当部署を色別に表示したり、イベント名の文字の大きさを変更しイベント毎の違いを明確にした。
+また、誤操作が起きないようにイベント詳細を押してからイベントへの参加申し込みをするようにした。その結果、役員の方からはわかりやすくなり操作しやすくなったとの意見を頂いた。
 
 \subsection{第２回月例レビュー会}
 　第２回月例レビュー会で、我々のチームは、後期活動開始から第２回月例レビュー会までの活動の報告と、開発途中のじぷりのデモと、今後のスケジュールの報告を行った。
